@@ -6,3 +6,7 @@ I've been working with my coworker, Omar, at the ridesharing company Pyber to an
 
 ## Results
 
+I began my analysis by digging into the differences between the city types' data as detailed on the summary DataFrame:
+
+![](Resources/summary_df.png)
+
