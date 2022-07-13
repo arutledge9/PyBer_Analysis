@@ -23,4 +23,4 @@ From our summary DataFrame, I moved to our multiple-line graph:
 
 ![](Resources/weekly_fare.PNG)
 
-
+In layman's terms, this graph takes our "Total Fares" column from the summary DataFrame and lays it over the four months we're examining, looking at our fares one week at a time - again, split out by each city type. There are some interesting patterns here where 2 city types may move in tandem - for example, a rise in fares for urban and rural in the second week of January, while rural fares decline (and the inverse for the first week of February) - and some where all three move in unison, most notably the week prior to March, and the week following. Without knowing the specifics of what may be happening locally during these time periods, I find it difficult to draw conclusions based on these "in tandem" fare movements, but they may be worth exploring with additional data. 
